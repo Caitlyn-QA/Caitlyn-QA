@@ -32,13 +32,16 @@ Those questions influence the way I approach both manual and automated testing. 
 ## Portfolio Projects
 
 ### Webshop Automation Suite
-A collection of UI automation tests built with Playwright and TypeScript against the Practice Software Testing application. 
+Playwright and TypeScript automation project focused on validating real user workflows, product search, filtering, navigation, and other key e-commerce functionality.
 
 ### API Testing Portfolio
-A collection of API test scenarios covering CRUD operations, assertions, collections, and test documentation using Postman.
+Postman-based API testing project demonstrating request validation, CRUD operations, response assertions, and API test design principles.
 
 ### SQL Portfolio
-SQL exercises and business-oriented queries demonstrating filtering, sorting, joins, and data analysis techniques commonly used in QA.
+A collection of SQL exercises and QA-focused data validation scenarios designed to demonstrate practical database testing and analytical thinking.
+
+### QA Documentation Examples
+A collection of common QA artifacts including test plans, test cases, bug reports, and requirements traceability matrices. Demonstrates the translation of requirements into structured test documentation and test coverage analysis.
 
 ## Beyond Testing
 Outside of technology, I enjoy hiking, camping, fitness, and spending time outdoors.
