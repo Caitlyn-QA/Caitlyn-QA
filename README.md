@@ -1,4 +1,4 @@
-## Hi there :-)
+## Welcome to my GitHub profile
 I’m Caitlyn, a Software Tester with an interest in automation, software quality, and understanding how applications behave.
 I enjoy exploring problems, investigating unexpected behavior, and thinking critically about what a test is actually validating. Through hands-on projects in UI automation, API testing, SQL, and CI/CD, I'm continuously expanding both my technical skills and my understanding of software quality.
 
