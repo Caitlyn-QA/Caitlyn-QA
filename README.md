@@ -31,16 +31,19 @@ Those questions influence the way I approach both manual and automated testing. 
 
 ## Portfolio Projects
 
-### Webshop Automation Suite
+### 🔗 [Webshop Automation Suite](https://github.com/Caitlyn-QA/webshop-automation-suite)
 Playwright and TypeScript automation project focused on validating real user workflows, product search, filtering, navigation, and other key e-commerce functionality.
 
-### API Testing Portfolio
+### 🔗 [Cucumber BDD Portfolio](https://github.com/Caitlyn-QA/cucumber-bdd-portfolio)
+Behaviour-Driven Development (BDD) project demonstrating Gherkin feature writing, scenario design, step definitions, and the translation of business requirements into automated tests.
+
+### 🔗 [API Testing Portfolio](https://github.com/Caitlyn-QA/api-testing-portfolio)
 Postman-based API testing project demonstrating request validation, CRUD operations, response assertions, and API test design principles.
 
-### SQL Portfolio
+### 🔗 [SQL Portfolio](https://github.com/Caitlyn-QA/sql-testing-portfolio)
 A collection of SQL exercises and QA-focused data validation scenarios designed to demonstrate practical database testing and analytical thinking.
 
-### QA Documentation Examples
+### 🔗 [QA Documentation Examples](https://github.com/Caitlyn-QA/qa-documentation-examples)
 A collection of common QA artifacts including test plans, test cases, bug reports, and requirements traceability matrices. Demonstrates the translation of requirements into structured test documentation and test coverage analysis.
 
 ## Beyond Testing
