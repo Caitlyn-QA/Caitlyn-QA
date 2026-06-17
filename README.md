@@ -34,7 +34,7 @@ Those questions influence the way I approach both manual and automated testing. 
 ### [Webshop Automation Suite](https://github.com/Caitlyn-QA/webshop-automation-suite)
 Playwright and TypeScript automation project focused on validating real user workflows, product search, filtering, navigation, and other key e-commerce functionality.
 
-### [Cucumber BDD Portfolio]((https://github.com/Caitlyn-QA/playwright-cucumber-demo)
+### [Cucumber BDD Portfolio](https://github.com/Caitlyn-QA/playwright-cucumber-demo)
 Behaviour-Driven Development (BDD) project demonstrating Gherkin feature writing, scenario design, step definitions, and the translation of business requirements into automated tests.
 
 ### [API Testing Portfolio](https://github.com/Caitlyn-QA/api-testing-portfolio)
