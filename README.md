@@ -34,7 +34,10 @@ Those questions influence the way I approach both manual and automated testing. 
 ### [Webshop Automation Suite](https://github.com/Caitlyn-QA/webshop-automation-suite)
 Playwright and TypeScript automation project focused on validating real user workflows, product search, filtering, navigation, and other key e-commerce functionality.
 
-### [Cucumber BDD Portfolio](https://github.com/Caitlyn-QA/playwright-cucumber-demo)
+### [Selenium C# Demo](https://github.com/Caitlyn-QA/selenium-csharp-demo)
+Selenium WebDriver and C# automation project recreating selected scenarios from the Playwright portfolio to compare automation frameworks and strengthen understanding of browser automation fundamentals, synchronization, and explicit waits.
+
+### [Playwright Cucumber Demo](https://github.com/Caitlyn-QA/playwright-cucumber-demo)
 Behaviour-Driven Development (BDD) project demonstrating Gherkin feature writing, scenario design, step definitions, and the translation of business requirements into automated tests.
 
 ### [API Testing Portfolio](https://github.com/Caitlyn-QA/api-testing-portfolio)
@@ -48,7 +51,8 @@ A collection of common QA artifacts including test plans, test cases, bug report
 
 ## Beyond Testing
 Outside of technology, I enjoy hiking, camping, fitness, and spending time outdoors.
-I've also had the opportunity to live in seven different countries, which gave me a chance to experience different cultures, perspectives, and ways of thinking.
+One of the more unusual parts of my journey has been living in seven different countries and experiencing a wide variety of cultures and ways of life along the way.
+I also enjoy theatre, opera, and classical music. One of my long-term goals is to learn to play the piano, something I've admired for years and hope to pursue in the future.
 During my university years, some of my hobbies included mountain rescue volunteering and participating in archaeological fieldwork, experiences that sparked my curiosity and love of exploration long before I discovered software testing.
 
 
