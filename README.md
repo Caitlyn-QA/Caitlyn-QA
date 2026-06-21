@@ -51,6 +51,12 @@ Appium, Android Studio, C#, and NUnit mobile automation project focused on valid
 ### [QA Documentation Examples](https://github.com/Caitlyn-QA/qa-documentation-examples)
 Collection of common QA artifacts including test plans, test cases, bug reports, and requirements traceability matrices. Demonstrates how requirements can be translated into structured testing activities, measurable test coverage, and effective defect communication.
 
+## Currently Building
+### Real-World QA Project
+An evolving end-to-end QA delivery simulation designed to reflect how a QA Engineer works within a software development team. The project follows realistic two-week sprints and includes requirement analysis, exploratory testing, Playwright automation, API testing, defect management, Git workflows, CI, regression testing and release-quality reporting.
+
+Current focus: Sprint 1 — Cart Reliability
+
 ## Beyond Testing
 Outside of technology, I enjoy hiking, camping, fitness, and spending time outdoors.
 One of the more unusual parts of my journey has been living in seven different countries and experiencing a wide variety of cultures and ways of life along the way.
