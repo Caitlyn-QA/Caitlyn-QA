@@ -18,40 +18,38 @@ I rarely stop at: "The test passed." Instead, I find myself asking:
   
 Those questions influence the way I approach both manual and automated testing. They help me design tests that are not only functional, but also intentional, maintainable, and trustworthy.
 
-## Skills & Technologies
-- Playwright
-- TypeScript
-- API Testing (Postman)
-- SQL
-- Git & GitHub
-- GitHub Actions
-- Test Design
-- Exploratory Testing
+## Testing Skills & Experience
 - Functional Testing
+- Exploratory Testing
+- Integration Testing
+- Release Testing
+- Test Design
+- Agile Development
 
 ## Portfolio Projects
+These projects were built around a simple question: what does a test actually prove?
+Each repository explores a different aspect of software quality, from user-facing workflows and business requirements to APIs, databases, mobile applications, and test documentation. Together, they reflect my interest in understanding how different testing practices contribute to building reliable and meaningful software.
 
 ### [Webshop Automation Suite](https://github.com/Caitlyn-QA/webshop-automation-suite)
-Playwright and TypeScript automation project focused on validating real user workflows, product search, filtering, navigation, and other key e-commerce functionality.
+Playwright and TypeScript automation project focused on validating realistic e-commerce workflows including product discovery, search, filtering, navigation, and product details. Explores how automated tests can provide meaningful coverage of user-facing functionality and business behaviour. 
 
 ### [Selenium C# Demo](https://github.com/Caitlyn-QA/selenium-csharp-demo)
-Selenium WebDriver and C# automation project recreating selected scenarios from the Playwright portfolio to compare automation frameworks and strengthen understanding of browser automation fundamentals, synchronization, and explicit waits.
+Selenium WebDriver and C# automation project recreating selected scenarios from the Playwright portfolio. Explores how different automation frameworks can validate the same user workflows while addressing synchronization, reliability, and maintainability challenges.
 
 ### [Playwright Cucumber Demo](https://github.com/Caitlyn-QA/playwright-cucumber-demo)
-Behaviour-Driven Development (BDD) project demonstrating Gherkin feature writing, scenario design, step definitions, and the translation of business requirements into automated tests.
+Playwright, Cucumber, and Gherkin project demonstrating how business requirements can be translated into executable specifications and automated acceptance tests through a Behaviour-Driven Development (BDD) approach.
 
 ### [API Testing Portfolio](https://github.com/Caitlyn-QA/api-testing-portfolio)
-Postman-based API testing project demonstrating request validation, CRUD operations, response assertions, and API test design principles.
+Postman-based API testing project covering CRUD operations, request validation, response assertions, and risk-based test design. Explores how API testing contributes to application reliability, system behaviour validation, and data integrity.
 
 ### [SQL Portfolio](https://github.com/Caitlyn-QA/sql-testing-portfolio)
-A collection of SQL exercises and QA-focused data validation scenarios designed to demonstrate practical database testing and analytical thinking.
+Collection of SQL exercises and QA-focused validation scenarios demonstrating how data can be queried, verified, and analysed to support software testing, defect investigation, and business requirements.
 
 ### [Appium Mobile Testing Demo](https://github.com/Caitlyn-QA/appium-mobile-testing-demo)
-
-Appium, Android Studio, C#, and NUnit mobile automation project demonstrating Android emulator setup, native mobile UI interaction, application automation, and mobile testing fundamentals.
+Appium, Android Studio, C#, and NUnit mobile automation project focused on validating native Android application behaviour through realistic user interactions. Explores the unique challenges and considerations of testing mobile applications.
 
 ### [QA Documentation Examples](https://github.com/Caitlyn-QA/qa-documentation-examples)
-A collection of common QA artifacts including test plans, test cases, bug reports, and requirements traceability matrices. Demonstrates the translation of requirements into structured test documentation and test coverage analysis.
+Collection of common QA artifacts including test plans, test cases, bug reports, and requirements traceability matrices. Demonstrates how requirements can be translated into structured testing activities, measurable test coverage, and effective defect communication.
 
 ## Beyond Testing
 Outside of technology, I enjoy hiking, camping, fitness, and spending time outdoors.
