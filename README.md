@@ -46,13 +46,19 @@ Postman-based API testing project demonstrating request validation, CRUD operati
 ### [SQL Portfolio](https://github.com/Caitlyn-QA/sql-testing-portfolio)
 A collection of SQL exercises and QA-focused data validation scenarios designed to demonstrate practical database testing and analytical thinking.
 
+### [Appium Mobile Testing Demo](https://github.com/Caitlyn-QA/appium-mobile-testing-demo)
+
+Appium, Android Studio, C#, and NUnit mobile automation project demonstrating Android emulator setup, native mobile UI interaction, application automation, and mobile testing fundamentals.
+
 ### [QA Documentation Examples](https://github.com/Caitlyn-QA/qa-documentation-examples)
 A collection of common QA artifacts including test plans, test cases, bug reports, and requirements traceability matrices. Demonstrates the translation of requirements into structured test documentation and test coverage analysis.
 
 ## Beyond Testing
 Outside of technology, I enjoy hiking, camping, fitness, and spending time outdoors.
 One of the more unusual parts of my journey has been living in seven different countries and experiencing a wide variety of cultures and ways of life along the way.
+
 I also enjoy theatre, opera, and classical music. One of my long-term goals is to learn to play the piano, something I've admired for years and hope to pursue in the future.
+
 During my university years, some of my hobbies included mountain rescue volunteering and participating in archaeological fieldwork, experiences that sparked my curiosity and love of exploration long before I discovered software testing.
 
 
