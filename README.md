@@ -29,12 +29,12 @@ Those questions influence the way I approach both manual and automated testing. 
 ## Currently Building
 ### [Real-World QA Project](https://github.com/Caitlyn-QA/real-world-qa-project)
 
-An evolving end-to-end QA delivery simulation designed to reflect how a QA Engineer works within a software development team. The project follows realistic two-week sprints and includes requirement analysis, exploratory testing, Playwright automation, API testing, defect management, Git workflows, CI, regression testing and release-quality reporting.
+An evolving end-to-end QA delivery simulation designed to demonstrate how a QA Engineer contributes throughout a software development lifecycle. As the project develops, it will continue to grow through requirement refinement, risk-based test analysis, exploratory testing, defect management, Playwright automation, Git workflows, pull-request reviews, CI, regression testing and release-quality reporting.
 
-**Current focus:** Sprint 1 — Cart Reliability
+Work is documented as it genuinely reaches each stage, with traceability between user stories, QA tasks, test evidence, branches, commits and pull requests.
 
-#### Project guide: 
-[How the Harbour Tools QA Project Works](https://github.com/Caitlyn-QA/real-world-qa-project/blob/main/reviewer-guide.md) — a beginner-friendly walkthrough explaining what was created, in which order, and why each step exists in a realistic software delivery process.
+### [Project Guide](https://github.com/Caitlyn-QA/real-world-qa-project/blob/main/reviewer-guide.md) 
+I created this walkthrough to show how the project came to life: how it was set up, planned and organised; how tasks are created, assigned and tracked; what each part of the project is for; and how one stage leads to the next. It also explains how a QA Engineer contributes throughout this process, helping reviewers understand not only the final evidence, but how the project actually works and evolves in a realistic software delivery environment.
 
 ## Portfolio Projects
 These projects were built around a simple question: what does a test actually prove?
