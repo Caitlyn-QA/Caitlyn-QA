@@ -26,6 +26,15 @@ Those questions influence the way I approach both manual and automated testing. 
 - Test Design
 - Agile Development
 
+## Currently Building
+### [Real-World QA Project](https://github.com/Caitlyn-QA/real-world-qa-project)
+
+An evolving end-to-end QA delivery simulation designed to reflect how a QA Engineer works within a software development team. The project follows realistic two-week sprints and includes requirement analysis, exploratory testing, Playwright automation, API testing, defect management, Git workflows, CI, regression testing and release-quality reporting.
+
+**Current focus:** Sprint 1 — Cart Reliability
+
+**Project guide:** [How the Harbour Tools QA Project Works](https://github.com/Caitlyn-QA/real-world-qa-project/blob/main/reviewer-guide.md) — a beginner-friendly walkthrough explaining what was created, in which order, and why each step exists in a realistic software delivery process.
+
 ## Portfolio Projects
 These projects were built around a simple question: what does a test actually prove?
 Each repository explores a different aspect of software quality, from user-facing workflows and business requirements to APIs, databases, mobile applications, and test documentation. Together, they reflect my interest in understanding how different testing practices contribute to building reliable and meaningful software.
@@ -50,15 +59,6 @@ Appium, Android Studio, C#, and NUnit mobile automation project focused on valid
 
 ### [QA Documentation Examples](https://github.com/Caitlyn-QA/qa-documentation-examples)
 Collection of common QA artifacts including test plans, test cases, bug reports, and requirements traceability matrices. Demonstrates how requirements can be translated into structured testing activities, measurable test coverage, and effective defect communication.
-
-## Currently Building
-
-### [Real-World QA Project](https://github.com/Caitlyn-QA/real-world-qa-project)
-
-An evolving end-to-end QA delivery simulation designed to reflect how a QA Engineer works within a software development team.
-The project follows realistic two-week sprints and includes requirement analysis, exploratory testing, Playwright automation, API testing, defect management, Git workflows, CI, regression testing and release-quality reporting.
-
-**Current focus:** Sprint 1 — Cart Reliability
 
 ## Beyond Testing
 Outside of technology, I enjoy hiking, camping, fitness, and spending time outdoors.
