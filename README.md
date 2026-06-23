@@ -33,7 +33,8 @@ An evolving end-to-end QA delivery simulation designed to reflect how a QA Engin
 
 **Current focus:** Sprint 1 — Cart Reliability
 
-**Project guide:** [How the Harbour Tools QA Project Works](https://github.com/Caitlyn-QA/real-world-qa-project/blob/main/reviewer-guide.md) — a beginner-friendly walkthrough explaining what was created, in which order, and why each step exists in a realistic software delivery process.
+#### Project guide: 
+[How the Harbour Tools QA Project Works](https://github.com/Caitlyn-QA/real-world-qa-project/blob/main/reviewer-guide.md) — a beginner-friendly walkthrough explaining what was created, in which order, and why each step exists in a realistic software delivery process.
 
 ## Portfolio Projects
 These projects were built around a simple question: what does a test actually prove?
