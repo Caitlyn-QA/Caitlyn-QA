@@ -29,37 +29,36 @@ Those questions influence the way I approach both manual and automated testing. 
 ## Currently Building
 ### [Real-World QA Project](https://github.com/Caitlyn-QA/real-world-qa-project)
 
-An evolving end-to-end QA delivery simulation designed to demonstrate how a QA Engineer contributes throughout a software development lifecycle. As the project develops, it will continue to grow through requirement refinement, risk-based test analysis, exploratory testing, defect management, Playwright automation, Git workflows, pull-request reviews, CI, regression testing and release-quality reporting.
+An evolving end-to-end QA delivery simulation designed to demonstrate how a QA Engineer contributes throughout a software development lifecycle. Rather than focusing only on automation, the project follows a realistic delivery process from business requirements and user stories to exploratory testing, defect management, automation and continuous improvement.
 
-Work is documented as it genuinely reaches each stage, with traceability between user stories, QA tasks, test evidence, branches, commits and pull requests.
+Each sprint documents not only the deliverables, but also the decisions, lessons learned and reflections that shape the next iteration, providing a transparent view of how QA thinking develops in a real project.
 
 ### [Project Guide](https://github.com/Caitlyn-QA/real-world-qa-project/blob/main/reviewer-guide.md) 
-I created this walkthrough to show how the project came to life: how it was set up, planned and organised; how tasks are created, assigned and tracked; what each part of the project is for; and how one stage leads to the next. It also explains how a QA Engineer contributes throughout this process, helping reviewers understand not only the final evidence, but how the project actually works and evolves in a realistic software delivery environment.
+The project guide was created to help visitors understand not only what was built, but why each activity exists within a realistic software development process. It follows the project as it evolves through each sprint, showing how requirements become test analysis, exploratory testing, automation, defect management and continuous improvement. 
+
+Rather than presenting only the final outcome, the guide also documents the reasoning, reflections and lessons that influence future work, helping readers understand how QA contributes throughout the software development lifecycle.
 
 ## Portfolio Projects
-These projects were built around a simple question: what does a test actually prove?
-Each repository explores a different aspect of software quality, from user-facing workflows and business requirements to APIs, databases, mobile applications, and test documentation. Together, they reflect my interest in understanding how different testing practices contribute to building reliable and meaningful software.
-
 ### [Webshop Automation Suite](https://github.com/Caitlyn-QA/webshop-automation-suite)
-Playwright and TypeScript automation project focused on validating realistic e-commerce workflows including product discovery, search, filtering, navigation, and product details. Explores how automated tests can provide meaningful coverage of user-facing functionality and business behaviour. 
+Playwright and TypeScript automation project focused on validating realistic e-commerce workflows, including product discovery, search, filtering, navigation and product details.
 
 ### [Selenium C# Demo](https://github.com/Caitlyn-QA/selenium-csharp-demo)
-Selenium WebDriver and C# automation project recreating selected scenarios from the Playwright portfolio. Explores how different automation frameworks can validate the same user workflows while addressing synchronization, reliability, and maintainability challenges.
+Selenium WebDriver and C# automation project recreating selected scenarios from the Playwright portfolio while exploring synchronization, reliability and maintainability.
 
 ### [Playwright Cucumber Demo](https://github.com/Caitlyn-QA/playwright-cucumber-demo)
-Playwright, Cucumber, and Gherkin project demonstrating how business requirements can be translated into executable specifications and automated acceptance tests through a Behaviour-Driven Development (BDD) approach.
+BDD-style automation project showing how business requirements can be translated into executable specifications using Playwright, Cucumber and Gherkin.
 
 ### [API Testing Portfolio](https://github.com/Caitlyn-QA/api-testing-portfolio)
-Postman-based API testing project covering CRUD operations, request validation, response assertions, and risk-based test design. Explores how API testing contributes to application reliability, system behaviour validation, and data integrity.
+Postman-based API testing project covering CRUD operations, request validation, response assertions and risk-based test design.
 
 ### [SQL Portfolio](https://github.com/Caitlyn-QA/sql-testing-portfolio)
-Collection of SQL exercises and QA-focused validation scenarios demonstrating how data can be queried, verified, and analysed to support software testing, defect investigation, and business requirements.
+SQL portfolio demonstrating how data can be queried, verified and analysed to support software testing, defect investigation and business requirements.
 
 ### [Appium Mobile Testing Demo](https://github.com/Caitlyn-QA/appium-mobile-testing-demo)
-Appium, Android Studio, C#, and NUnit mobile automation project focused on validating native Android application behaviour through realistic user interactions. Explores the unique challenges and considerations of testing mobile applications.
+Mobile automation project using Appium, Android Studio, C# and NUnit to validate native Android application behaviour.
 
 ### [QA Documentation Examples](https://github.com/Caitlyn-QA/qa-documentation-examples)
-Collection of common QA artifacts including test plans, test cases, bug reports, and requirements traceability matrices. Demonstrates how requirements can be translated into structured testing activities, measurable test coverage, and effective defect communication.
+Collection of QA artifacts including test plans, test cases, bug reports and requirements traceability examples.
 
 ## Beyond Testing
 Outside of technology, I enjoy hiking, camping, fitness, and spending time outdoors.
