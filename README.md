@@ -27,16 +27,35 @@ Those questions influence the way I approach both manual and automated testing. 
 - Agile Development
 
 ## Currently Building
+
 ### [Real-World QA Project](https://github.com/Caitlyn-QA/real-world-qa-project)
 
-An evolving end-to-end QA delivery simulation designed to demonstrate how a QA Engineer contributes throughout a software development lifecycle. Rather than focusing only on automation, the project follows a realistic delivery process from business requirements and user stories to exploratory testing, defect management, automation and continuous improvement.
+The Real-World QA Project helped me understand how QA fits into a real software development process, from business requirements and user stories to exploratory testing, automation, defect management and continuous improvement.
 
-Each sprint documents not only the deliverables, but also the decisions, lessons learned and reflections that shape the next iteration, providing a transparent view of how QA thinking develops in a real project.
+While working on it, I also realised which parts of QA I enjoy most and would like to understand more deeply.
 
-### [Project Guide](https://github.com/Caitlyn-QA/real-world-qa-project/blob/main/reviewer-guide.md) 
-The project guide was created to help visitors understand not only what was built, but why each activity exists within a realistic software development process. It follows the project as it evolves through each sprint, showing how requirements become test analysis, exploratory testing, automation, defect management and continuous improvement. 
+I especially enjoy thinking about:
 
-Rather than presenting only the final outcome, the guide also documents the reasoning, reflections and lessons that influence future work, helping readers understand how QA contributes throughout the software development lifecycle.
+- what the business really needs;
+- what could go wrong and why it matters;
+- what might be missing or unclear in the requirements;
+- what should be explored manually;
+- what should be automated and why;
+- what a test actually proves;
+- whether an AI-generated suggestion is really good enough.
+
+This is what led me to my next project.
+
+### [Risk-Based Quality Engineering in Practice](https://github.com/Caitlyn-QA/risk-based-quality-engineering)
+
+In this project, I will follow the [Practice Software Testing] website from Sprint 1 and see how the product, risks and testing needs change as new features are added.
+The main focus will be risk-based quality engineering, exploratory testing, automation decisions and building Playwright tests that provide meaningful evidence.
+> [!NOTE]
+> I use AI throughout both projects I am currently building. It helps me save time, generate ideas, improve documentation and support debugging.
+> 
+> The analysis, exploratory testing, automation decisions, code and conclusions remain my work. AI may suggest alternatives or help me think through a problem, but I decide what makes sense, make the final changes and take responsibility for the result.
+> 
+> I use AI as a practical working tool and not as the person doing the project for me.
 
 ## Portfolio Projects
 ### [Webshop Automation Suite](https://github.com/Caitlyn-QA/webshop-automation-suite)
